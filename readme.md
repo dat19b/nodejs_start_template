@@ -7,7 +7,7 @@
 4. Create and Run a Container based on this image: ``` docker run -it --rm -p 8080:8080 -v ${PWD}:/app clbo_node bash ```
 5. In the terminal ``` cd app ```
 6. In the terminal ``` node server/server.js ```
-7. http://loacalhost:8080
+7. http://localhost:8080
 
 ## Intellij
 1. Clone this repository 
